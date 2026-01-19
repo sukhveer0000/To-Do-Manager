@@ -1,16 +1,31 @@
-# to_do_app
+# 📝 To-Do App (Flutter)
 
-A new Flutter project.
+A cross-platform To-Do application built using **Flutter**, designed to help users manage daily tasks efficiently with local storage and smooth state management.
 
-## Getting Started
+## 🚀 Features
+- Create new tasks
+- Delete tasks by sliding left
+- Mark tasks as completed or incomplete
+- Persistent local storage using Hive
+- Clean and intuitive UI
+- Fast and lightweight performance
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+- **Flutter** – Cross-platform app development
+- **Hive** – Lightweight local database
+- **Provider** – State management
+- **Dart** – Programming language
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 App Functionality
+- Tasks are stored locally using Hive
+- Provider is used to manage app state efficiently
+- Swipe left on a task to delete it
+- Tap on a task to mark it complete or incomplete
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🏗️ Architecture
+The app follows a clean and simple architecture using **Provider** for state management, ensuring separation of UI and business logic.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Installation
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/todo-app.git
