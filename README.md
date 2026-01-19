@@ -28,7 +28,7 @@ The app follows a clean and simple architecture using **Provider** for state man
 ## 📦 Installation
 1. Clone the repository  
    ```bash
-   [git clone https://github.com/your-username/todo-app](https://github.com/sukhveer0000/To-Do-Manager).git
+   https://github.com/sukhveer0000/To-Do-Manager.git
 
 2. Navigate to the Project Directory
    ```bash
